@@ -1,4 +1,4 @@
 first step was creating untracked directories 
 secondly playing around with git 
 checking on the status of my files 
-re
+adding the README.md file as a tracked file
